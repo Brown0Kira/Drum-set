@@ -7,41 +7,55 @@ h1 {
   font-size: 5rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  text-shadow: 3px 0 #d52072;
 
 }
 
+h2 {
+  font-size: 2rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  
+
+}
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
 }
 
 .w {
-
+  background-image: url("images/crash.png");
+ background-color: #cccccc;
 }
 
 .a {
-
+  background-image: url("images/kick.png");
+  background-color: #cccccc;
 }
 
 .s {
-
+  background-image: url("images/snare.png");
+  background-color: #cccccc;
 }
 
 .d {
-
+  background-image: url("images/tom1.png");
+  background-color: #cccccc;
 }
 
 .j {
-
+  background-image: url("images/tom2.png");
+  background-color: #cccccc;
 }
 
 .k {
-
+  background-image: url("images/tom3.png");
+  background-color: #cccccc;
 }
 
 .l {
-
+  background-image: url("images/tom4.png");
+  background-color: #cccccc;
 }
 
 .set {
